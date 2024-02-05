@@ -40,4 +40,4 @@ def get_weather_data(city, api_key):
     else:
         print(f"Координаты для города {city} не найдены.")
         return None
-# print(get_weather_data("Кушадасы", "e0c86707c9bcd1b47cb351e0bddd908c"))
+
